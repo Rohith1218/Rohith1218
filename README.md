@@ -5,7 +5,7 @@
 
 <h3>Connect with me:</h3>
 <p>
-  <a href="https://www.linkedin.com/in/rohithreddy1218/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/rohithreddy18/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <!-- Add your social media links here -->
